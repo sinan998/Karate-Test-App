@@ -1,6 +1,5 @@
 Feature: GET Apı Feature
 
-  Scenario: get user informations
 
 
   Scenario: get all active and male users
